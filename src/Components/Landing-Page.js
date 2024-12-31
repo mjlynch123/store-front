@@ -1,4 +1,5 @@
 import react, { useState, useEffect } from 'react';
+import './CSS/Landing-Page.css';
 
 export default function LandingPage() {
     return (
