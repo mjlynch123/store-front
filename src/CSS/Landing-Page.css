@@ -1,0 +1,10 @@
+.buttons button {
+    height: 50px;
+    width: 100px;
+    background-color: #00ff00;
+    letter-spacing: 1px;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    border: none;
+    margin: 10px;
+}
