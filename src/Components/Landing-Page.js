@@ -9,8 +9,8 @@ export default function LandingPage() {
                     <h1>Welcome to Cloud Nine Dispensary</h1>
                     <p>Our mission is to provide the best quality cannabis products to our customers.</p>
                     <div className="buttons">
-                        <button>Shop Now</button>
-                        <button>Learn More</button>
+                        <a href='#'>Shop Now</a>
+                        <a href='#'>Learn More</a>
                     </div>
                 </div>
             </div>
